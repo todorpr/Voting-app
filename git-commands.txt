@@ -1,0 +1,8 @@
+git status
+git add -all
+git commit -m="Some message text"
+git pull https://github.com/todorpr/NodeJS-1.git
+git push origin master
+
+# If your local changes are bad then just remove them or reset your local master to the state on remote
+git reset --hard origin/master
