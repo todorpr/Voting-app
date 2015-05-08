@@ -1,0 +1,7 @@
+.polls {
+	margin-top: 20px;
+}
+
+.polls li a.btn {
+	float: right;
+}
